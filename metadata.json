@@ -1,0 +1,8 @@
+{
+  "name": "Remix Video 45s: Đối tượng hình khối \u0026 Thuộc tính cơ bản - Tin học 10 Bài 13",
+  "description": "Video bài giảng hoạt họa 45 giây và phòng thực hành tương tác giới thiệu các đối tượng hình khối và thuộc tính cơ bản trong Inkscape theo SGK Tin học 10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
